@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adult-Census-Income-Prediction
 # Overview
 
